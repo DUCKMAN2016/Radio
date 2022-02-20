@@ -1,6 +1,5 @@
 # Radio
-Broadcast Radio
-Radio for broadcasting
+Broadcast Radio for broadcasting
 # Radio
 **Radio** (also web radio, net radio, streaming radio, e-radio, IP radio, online radio) is a digital audio service transmitted via the Internet. Broadcasting on the Internet is usually referred to as webcasting since it is not transmitted broadly through wireless means. It can either be used as a stand-alone device running through the Internet, or as a software running through a single computer system([more..](https://en.wikipedia.org/wiki/Internet_radio))<br/>
 
